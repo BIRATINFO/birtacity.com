@@ -17,9 +17,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "BIRATCITY | Digital Archive of Information",
+  title: "BIRTACITY | Digital Archive of Information",
   description: "Digital Archive of Information",
-  metadataBase: new URL('https://biratcity.com'),
+  metadataBase: new URL('https://birtacity.com'),
 };
 
 
